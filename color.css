@@ -1,0 +1,24 @@
+.test{
+  color:MediumSlateBlue;
+  font-family: "Courier New";
+}
+
+h1{
+  color:MediumSlateBlue;
+  text-shadow: 3px 2px burlwood;
+}
+
+
+.head{
+  color:MediumSlateBlue;
+  font-family: "Courier New";
+}
+
+  body{
+    color: white;
+   background: url(https://data.whicdn.com/images/265588773/large.jpg);
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  }
